@@ -1,0 +1,26 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT Add photo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mi-cloud34/PCAT.git"
+  },
+  "keywords": [
+    "camera",
+    "photo"
+  ],
+  "author": "Mesut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mi-cloud34/PCAT/issues"
+  },
+  "homepage": "https://github.com/mi-cloud34/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.6.0"
+  }
+}
